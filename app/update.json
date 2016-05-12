@@ -3,7 +3,7 @@
 		"latestVersion": "2.0.2",
 		"releaseNotes": "",
 		"updateUrl": "",
-		"force": true,
+		"force": false,
 		"releaseDate": "2016-05-12T10:51:26-06:00",
 		"expiresIn": 5
 	},
