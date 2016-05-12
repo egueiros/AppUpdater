@@ -1,0 +1,18 @@
+{
+	"android": {
+		"latestVersion": "2.0.2",
+		"releaseNotes": "",
+		"url": "",
+		"force": true,
+		"date": "2016-05-12T10:51:26-06:00",
+		"expiresIn": 5
+	},
+	"iOS": {
+		"latestVersion": "2.0.2",
+		"releaseNotes": "",
+		"url": "",
+		"force": false,
+		"date": "2016-05-12T10:51:26-06:00",
+		"expiresIn": 5
+	}
+}
