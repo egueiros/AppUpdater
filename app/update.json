@@ -3,7 +3,7 @@
 		"latestVersion": "2.1.5",
 		"releaseNotes": "- Improved performance\n- Bug fixes",
 		"updateUrl": "",
-		"force": false,
+		"force": true,
 		"releaseDate": "2016-10-18T12:00:00-06:00",
 		"expiresIn": 5
 	},
